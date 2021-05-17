@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 nieuwe inhoud ingetypt
-=======
 Initial Content
->>>>>>> test
