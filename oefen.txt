@@ -7,3 +7,4 @@ Aanvulling remote
 Aanvulling lokaal master 
 Nieuwe aanvulling remote
 Na nieuwe aanvulling remote: Aanvulling voor branche Oef1
+Pinksterwijziging lokaal
